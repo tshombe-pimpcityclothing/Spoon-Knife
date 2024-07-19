@@ -1,0 +1,117 @@
+git clone
+tshombe-pimpcityclothing
+git clonehttps://github.com/tshombe-pimpcityclothing/pimp-city-clothing-llc.appspot.com/issues/1#issue-2387428732)]}'
+{
+  "log": [
+    {
+      "commit": "1f85fb9238aac6f23ac42abfe434568f5d816b68",
+      "tree": "141b204023faba9fb1faf9fb1316b782b31f6b19",
+      "parents": [
+        "083583f2e3f42aef31389bcebcfb95068ffb5f17"
+      ],
+      "author": {
+        "name": "skia-autoroll",
+        "email": "skia-autoroll@skia-public.iam.gserviceaccount.com",
+        "time": "Mon Jul 08 04:50:07 2024 +0000"
+      },
+      "committer": {
+        "name": "SkCQ",
+        "email": "skcq-be@skia-corp.google.com.iam.gserviceaccount.com",
+        "time": "Mon Jul 08 05:29:34 2024 +0000"
+      },
+      "message": "Roll SK Tool from 56239a1e581e to c8809f07361f\n\nhttps://skia.googlesource.com/buildbot.git/+log/56239a1e581e..c8809f07361f\n\n2024-07-08 skia-autoroll@skia-public.iam.gserviceaccount.com Roll cpython3 CIPD packages from 2@3.11.9.chromium.35 to 3@3.11.9.chromium.35 (1 revision)\n2024-07-08 skia-autoroll@skia-public.iam.gserviceaccount.com Roll Skia Infra CIPD packages from 4a010f4ac261 to 56239a1e581e (2 revisions)\n2024-07-08 skia-autoroll@skia-public.iam.gserviceaccount.com Roll Depot Tools from 452fe3be37f7 to 9e9fc992803c (1 revision)\n\nIf this roll has caused a breakage, revert this CL and stop the roller\nusing the controls here:\nhttps://autoroll.skia.org/r/sk-tool-skia\nPlease CC mingkong@google.com,skiabot@google.com on the revert to ensure that a human\nis aware of the problem.\n\nTo file a bug in Skia: https://bugs.chromium.org/p/skia/issues/entry\n\nTo report a problem with the AutoRoller itself, please file a bug:\nhttps://issues.skia.org/issues/new?component\u003d1389291\u0026template\u003d1850622\n\nDocumentation for the AutoRoller is here:\nhttps://skia.googlesource.com/buildbot/+doc/main/autoroll/README.md\n\nTbr: mingkong@google.com\nChange-Id: I534e0a4c077c0fcf175aa3d4df2d8794c65c56fa\nReviewed-on: https://skia-review.googlesource.com/c/skia/+/873983\nBot-Commit: skia-autoroll \u003cskia-autoroll@skia-public.iam.gserviceaccount.com\u003e\nCommit-Queue: skia-autoroll \u003cskia-autoroll@skia-public.iam.gserviceaccount.com\u003e\n"
+    },
+    {
+      "commit": "083583f2e3f42aef31389bcebcfb95068ffb5f17",
+      "tree": "0fe72a8d9cfb5eeef020f15c1bae102737c3c1a2",
+      "parents": [
+        "f1d06de0ae87daf13d2c9ed2321b36729ad3b6a5"
+      ],
+      "author": {
+        "name": "skia-autoroll",
+        "email": "skia-autoroll@skia-public.iam.gserviceaccount.com",
+        "time": "Mon Jul 08 04:14:03 2024 +0000"
+      },
+      "committer": {
+        "name": "SkCQ",
+        "email": "skcq-be@skia-corp.google.com.iam.gserviceaccount.com",
+        "time": "Mon Jul 08 04:59:13 2024 +0000"
+      },
+      "message": "Roll Skia Infra from 6c155414a139 to 56239a1e581e (4 revisions)\n\nhttps://skia.googlesource.com/buildbot.git/+log/6c155414a139..56239a1e581e\n\n2024-07-05 skia-autoroll@skia-public.iam.gserviceaccount.com Roll LUCI CIPD packages from 9ce18dfea456 to b09f6ef584c4 (27 revisions)\n2024-07-05 skia-autoroll@skia-public.iam.gserviceaccount.com Roll Skia Infra CIPD packages from 3a6c4fed7cdc to aed65f2e3de8 (2 revisions)\n2024-07-05 skia-autoroll@skia-public.iam.gserviceaccount.com Roll Depot Tools from c11771664904 to 452fe3be37f7 (1 revision)\n2024-07-05 skia-autoroll@skia-public.iam.gserviceaccount.com Roll git CIPD packages from 2@2.45.2.chromium.11 to 3@2.45.2.chromium.11 (1 revision)\n\nIf this roll has caused a breakage, revert this CL and stop the roller\nusing the controls here:\nhttps://autoroll.skia.org/r/infra-skia\nPlease CC mingkong@google.com,skiabot@google.com on the revert to ensure that a human\nis aware of the problem.\n\nTo file a bug in Skia Infra: https://bugs.chromium.org/p/skia/issues/entry\nTo file a bug in Skia: https://bugs.chromium.org/p/skia/issues/entry\n\nTo report a problem with the AutoRoller itself, please file a bug:\nhttps://issues.skia.org/issues/new?component\u003d1389291\u0026template\u003d1850622\n\nDocumentation for the AutoRoller is here:\nhttps://skia.googlesource.com/buildbot/+doc/main/autoroll/README.md\n\nBug: None\nTbr: mingkong@google.com\nChange-Id: I6eca76ab284e584e7a3bf786adce3af02318d587\nReviewed-on: https://skia-review.googlesource.com/c/skia/+/874036\nCommit-Queue: skia-autoroll \u003cskia-autoroll@skia-public.iam.gserviceaccount.com\u003e\nBot-Commit: skia-autoroll \u003cskia-autoroll@skia-public.iam.gserviceaccount.com\u003e\n"
+    }
+  ]
+}
+https://fair-jigsaw-428604-p2.firebaseio.com/<script src="https://www.gstatic.com/firebasejs/ui/6.0.1/firebase-ui-auth.js"></script>
+<link type="text/css" rel="stylesheet" href="https://www.gstatic.com/firebasejs/ui/6.0.1/firebase-ui-auth.css" />ui.start('#firebaseui-auth-container', {
+  signInOptions: [
+    {
+      provider: firebase.auth.EmailAuthProvider.PROVIDER_ID,
+      signInMethod: firebase.auth.EmailAuthProvider.EMAIL_LINK_SIGN_IN_METHOD,
+      // Allow the user the ability to complete sign-in cross device,
+      // including the mobile apps specified in the ActionCodeSettings
+      // object below.
+      forceSameDevice: false,
+      // Used to define the optional firebase.auth.ActionCodeSettings if
+      // additional state needs to be passed along request and whether to open
+      // the link in a mobile app if it is installed.
+      emailLinkSignIn: function() {
+        return {
+          // Additional state showPromo=1234 can be retrieved from URL on
+          // sign-in completion in signInSuccess callback by checking
+          // window.location.href.
+          url: 'https://www.example.com/completeSignIn?showPromo=1234',
+          // Custom FDL domain.
+          dynamicLinkDomain: 'example.page.link',
+          // Always true for email link sign-in.
+          handleCodeInApp: true,
+          // Whether to handle link in iOS app if installed.
+          iOS: {
+            bundleId: 'com.example.ios'
+          },
+          // Whether to handle link in Android app if opened in an Android
+          // device.
+          android: {
+            packageName: 'com.example.android',
+            installApp: true,
+            minimumVersion: '12'
+          }
+        };
+      }
+    }
+  ]
+});ui.start('#firebaseui-auth-container', {
+  signInOptions: [
+    {
+      provider: firebase.auth.GoogleAuthProvider.PROVIDER_ID,
+      scopes: [
+        'https://www.googleapis.com/auth/contacts.readonly'
+      ],
+      customParameters: {
+        // Forces account selection even when one account
+        // is available.
+        prompt: 'select_account'
+      }
+    },
+    {
+      provider: firebase.auth.FacebookAuthProvider.PROVIDER_ID,
+      scopes: [
+        'public_profile',
+        'email',
+        'user_likes',
+        'user_friends'
+      ],
+      customParameters: {
+        // Forces password re-entry.
+        auth_type: 'reauthenticate'
+      }
+    },
+    firebase.auth.TwitterAuthProvider.PROVIDER_ID, // Twitter does not support scopes.
+    firebase.auth.EmailAuthProvider.PROVIDER_ID // Other providers don't need to be given as object.
+  ]
+});https://www.bandlab.com/post/4606cafc-7e3c-ef11-86c3-000d3a42581bhttps://appdistribution.firebase.dev/i/a24197cc93b69333https://appdistribution.firebase.dev/i/355c32b82ee8c51ahttps://developer.android.com/build/build-variants#build-typeshttps://developer.android.com/build/build-variants#product-flavorshttps://developer.android.com/build/build-variants#flavor-dimensionscurl  --header "Authorization: Bearer $(gcloud auth print-access-token)" \
+--header "Content-type: application/json" \
+"https://firestore.googleapis.com/v1/projects/PROJECT_ID/databases/(default)"curl -X PATCH \
+--header "Authorization: Bearer $(gcloud auth print-access-token)" \
+--header "Content-type: application/json" \
+--data '{"app_engine_integration_mode": "DISABLED"}' \
+"https://firestore.googleapis.com/v1/projects/PROJECT_ID/databases/(default)?updateMask=appEngineIntegrationMode"https://cloud.google.com/firestore/docs/app-engine-requirement?hl=en#firestoretfhttps://cloud.google.com/firestore/docs/app-engine-requirement?hl=en#migrating_terraform_resourceshttp://storage.googleapis.com/BUCKET_NAME/OBJECT_NAMEhttp://bxmavKlfSZOl9pc:YIv0IGCwRNkrCzS@localhost:16163/data/data/com.qamar.editor.html/files/alif/etc/samples/welcome.html
